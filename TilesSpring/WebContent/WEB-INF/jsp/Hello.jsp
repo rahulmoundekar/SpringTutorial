@@ -1,0 +1,3 @@
+<center>
+${message}
+</center>
